@@ -1,0 +1,18 @@
+2023/10/26 20:01:12 Connection from 127.0.0.1:39752
+2023/10/26 20:01:25 error while reading message: websocket: close 1001 (going away)
+2023/10/26 20:02:13 Connection from 127.0.0.1:52906
+2023/10/26 20:02:21 error while reading message: websocket: close 1001 (going away)
+2023/10/26 20:02:32 Connection from 127.0.0.1:60852
+2023/10/26 20:02:34 From 127.0.0.1:60852: a
+2023/10/26 20:02:34 From 127.0.0.1:60852: d
+2023/10/26 20:02:34 From 127.0.0.1:60852: a
+2023/10/26 20:02:36 From 127.0.0.1:60852: Backspace
+2023/10/26 20:02:45 From 127.0.0.1:60852: a
+2023/10/26 20:02:47 From 127.0.0.1:60852: w
+2023/10/26 20:02:47 From 127.0.0.1:60852: o
+2023/10/26 20:02:48 From 127.0.0.1:60852: n
+2023/10/26 20:02:48 From 127.0.0.1:60852: g
+2023/10/26 20:02:49 From 127.0.0.1:60852: Enter
+2023/10/26 20:02:49 error while reading message: websocket: close 1001 (going away)
+2023/10/26 20:39:51 Connection from 127.0.0.1:40628
+2023/10/26 21:26:15 error while reading message: websocket: close 1001 (going away)
